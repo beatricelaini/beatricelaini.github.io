@@ -9,8 +9,8 @@ Ce fichier contient plusieurs types de markdown, comme mentionné dans le devoir
 * Titre : #
 * Sous-titre : ##
 * Liste à puce : *
-* Lien : [texte](url)
-* Mail : [texte](mailto:email)
+* Lien : [texte](url) (url)
+* Mail : [texte](mailto:email) (mailto:email)
 
 ## Licence
 
